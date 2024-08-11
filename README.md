@@ -1,5 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sangeetha! ✨ </h1>
-<h4 align="left">🤖 Code smarter, not harder — harnessing the power of AI, one commit at a time!</h4>
+<h4 align="left">🤖 Code smarter, not harder — harnessing the power of AI, one commit at a time!</h4> 
+<h4 align="left">Experienced AI developer @ SAP Germany</h4> 
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeethapc/) 
